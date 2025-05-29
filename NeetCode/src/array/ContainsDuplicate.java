@@ -68,4 +68,22 @@ public class ContainsDuplicate {
 //Input: nums = [1, 2, 3, 4]
 //
 //Output: false
+
+
+
+//public boolean hasDuplicate(int[] nums) {
+//    HashSet hs= new HashSet();
+//    for(int no:nums)
+//    {
+//       hs.add(no);
+//    }
+//    if(hs.size()==nums.length)
+//    {
+//       return false;
+//    }
+//    else{
+//    return true;
+//    }
+//   }
+
 //***************************//
