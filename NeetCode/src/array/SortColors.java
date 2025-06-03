@@ -11,7 +11,7 @@ public class SortColors {
 
 	public void sortColors(int[] nums) {
        int i=0, l=0,r=nums.length-1;
-       while(i<r)
+       while(i<=r)
        {
     	   if(nums[i]==0)
     	   {
