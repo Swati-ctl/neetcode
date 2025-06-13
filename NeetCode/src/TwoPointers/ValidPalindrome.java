@@ -1,4 +1,4 @@
-package arrayandhashing;
+package TwoPointers;
 
 public class ValidPalindrome {
 
