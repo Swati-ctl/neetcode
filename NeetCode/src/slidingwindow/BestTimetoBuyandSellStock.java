@@ -1,4 +1,4 @@
-package TwoPointers;
+package slidingwindow;
 
 import java.util.Arrays;
 import java.util.HashMap;
